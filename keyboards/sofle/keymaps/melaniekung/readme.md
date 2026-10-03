@@ -14,6 +14,6 @@
 
 `qmk flash -kb sofle/rev1 -km melaniekung -e CONVERT_TO=promicro_rp2040`
 
-* Unlug in keyboard (USB-C).
-* Press and hold the reset button on the right keyboard.
-* Plugin in keyboard (while holding the reset button).
+* Unplug keyboard (USB-C).
+* Press and hold the reset button on the LEFT keyboard.
+* Plugin in LEFT keyboard (while holding the reset button).
